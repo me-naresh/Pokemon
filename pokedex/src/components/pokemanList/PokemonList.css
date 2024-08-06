@@ -1,4 +1,4 @@
-.pokeman-list-wrapper {
+.pokemon-list-wrapper {
   margin: 2rem auto;
   display: flex;
   flex-direction: column;
@@ -19,7 +19,6 @@
 }
 
 .control {
-  margin-top: 82%;
 }
 
 .control button {
